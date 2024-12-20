@@ -1,0 +1,14 @@
+{
+    "cities": [
+        {
+            "name": "Sydney, Australia",
+            "imageUrl": "sydney.jpg",
+            "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and beaches."
+        },
+        {
+            "name": "Rio de Janeiro, Brazil",
+            "imageUrl": "Rio.jpg",
+            "description": "Famous for its beaches, Christ the Redeemer statue, and vibrant culture."
+        }
+    ]
+}
